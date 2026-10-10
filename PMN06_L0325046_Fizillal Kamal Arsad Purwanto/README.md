@@ -4,7 +4,7 @@ Program MATLAB/Octave untuk menyelesaikan SPL 5 variabel (p, q, r, s, t) dengan 
 menghitung galat, dan mengukur running time.
 
 **Penyusun:** L0325046 – Fizillal Kamal Arsad Purwanto
-**Program Studi:** Informatika, FTIS, Universitas Sebelas Maret
+**Program Studi:** Informatika PSDKU Kebumen, Universitas Sebelas Maret
 
 ## Soal
 
