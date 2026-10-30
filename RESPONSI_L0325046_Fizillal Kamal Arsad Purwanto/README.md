@@ -21,7 +21,6 @@ Repositori ini berisi source code MATLAB untuk tiga kasus responsi beserta lapor
 ├── Kasus1_GelombangLaut.m        # Kasus 1: galat / error pemotongan
 ├── Kasus2_SPL_GaussSeidel.m      # Kasus 2: SPL, Gauss-Seidel
 ├── Kasus3_Tabung_Bola.m          # Kasus 3: persamaan non-linear, grafik + Biseksi
-├── RESPONSI_L0325046_Fizillal_Kamal_Arsad_Purwanto.pdf   # Laporan
 └── README.md
 ```
 
