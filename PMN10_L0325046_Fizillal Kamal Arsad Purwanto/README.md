@@ -36,9 +36,6 @@ Semakin tinggi orde metode, semakin kecil galatnya (galat global Euler ~ h, Heun
 | Berkas | Keterangan |
 |---|---|
 | `euler.m`, `heun.m`, `rk4.m` | Kode MATLAB/Octave untuk tiap metode |
-| `euler.py`, `heun.py`, `rk4.py` | Versi Python dengan logika dan format keluaran yang sama |
-| `PMN10_L0325046_Fizillal_Kamal_Arsad_Purwanto.docx` | Laporan praktikum (Bab I Analisis Source Code, Bab II Analisis Numerik, Bab III Analisis Praktikum) |
-| `Tugas_PDB_L0325046_Fizillal_Kamal_Arsad_Purwanto.docx` | Versi laporan sebelumnya (format responsi) |
 
 ## Cara menjalankan
 
@@ -50,16 +47,6 @@ Buka folder berisi file `.m`, lalu ketik nama file di Command Window:
 euler
 heun
 rk4
-```
-
-**Python 3**
-
-Hanya memerlukan pustaka standar (`math`):
-
-```bash
-python euler.py
-python heun.py
-python rk4.py
 ```
 
 Setiap program mencetak tabel iterasi (i, xᵢ, yᵢ, kemiringan, yᵢ₊₁), lalu perbandingan dengan solusi eksak berikut galat absolut dan galat relatif (enam angka desimal).
